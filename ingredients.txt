@@ -6,8 +6,12 @@ tomatoes
 strained ricotta 
 tomato paste 
 onions
+<<<<<<< HEAD
 red peppers
 zucchini 
 pineapples
 grapes
 rainbows
+=======
+eggplant
+>>>>>>> 1a8a410d38d0b4905bb8757ab3b8f29d28164e92
